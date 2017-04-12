@@ -1,0 +1,5 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemploArrays\entidades\obj\Debug\entidades.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemploArrays\entidades\bin\Debug\entidades.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemploArrays\entidades\bin\Debug\entidades.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemploArrays\entidades\obj\Debug\entidades.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemploArrays\entidades\obj\Debug\entidades.pdb

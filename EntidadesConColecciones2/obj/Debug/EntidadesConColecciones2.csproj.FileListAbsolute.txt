@@ -1,0 +1,5 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemploArrays\EntidadesConColecciones2\bin\Debug\EntidadesConColecciones2.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemploArrays\EntidadesConColecciones2\bin\Debug\EntidadesConColecciones2.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemploArrays\EntidadesConColecciones2\obj\Debug\EntidadesConColecciones2.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemploArrays\EntidadesConColecciones2\obj\Debug\EntidadesConColecciones2.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\ejemploArrays\EntidadesConColecciones2\obj\Debug\EntidadesConColecciones2.pdb
